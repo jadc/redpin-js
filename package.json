@@ -1,0 +1,12 @@
+{
+  "name": "Redpin",
+  "description": "Redpin for Sunset Server",
+  "version": "1.0.0",
+  "main": "redpin.js",
+  "scripts": {
+    "start": "node redpin.js"
+  },
+  "dependencies": {
+    "discord.js": "11.5.1",
+  }
+}
