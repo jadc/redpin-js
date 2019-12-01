@@ -116,4 +116,4 @@ bot.on("raw", p => {
     });
 });
 
-bot.login(process.env.TOKEN);
+bot.login(config.token);
